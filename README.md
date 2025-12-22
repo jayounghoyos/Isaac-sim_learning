@@ -8,3 +8,7 @@
 
 ![movement.png](/images/LIDAR.png)
 ![movement.png](/images/LIDAR2.png)
+
+### ROS2 with LIDAR publisher VERSION
+
+![](/images/ROS2-connection_LIDARPublisher.png)
